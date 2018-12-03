@@ -1,0 +1,7 @@
+project_token: c77471ed0217d751b8e23ed4
+name: IsItPI_Dev
+jobs: 
+  - job_id: 9ef51d5d-933f-46a1-bf4c-364344b9f764
+    language: python
+    name: Main
+    entrypoint: "main.py"
